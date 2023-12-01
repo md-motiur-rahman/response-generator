@@ -1,5 +1,8 @@
 # response-generator
 
+in this project we will accept user responses, store them in db and can retrive them with a validated user.
+simply a CRUD project.
+
 ## Project setup
 ```
 npm install
